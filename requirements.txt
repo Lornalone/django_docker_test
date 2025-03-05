@@ -13,12 +13,12 @@ idna==3.10
 incremental==24.7.2
 packaging==24.2
 pillow==10.4.0
-psycopg2
-psycopg2-binary
+psycopg2-binary==2.9.10
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pycparser==2.22
 pyOpenSSL==25.0.0
+python-dotenv==1.0.1
 service-identity==24.2.0
 sqlparse==0.5.3
 tomli==2.2.1
